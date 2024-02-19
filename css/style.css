@@ -23,7 +23,7 @@ body
 {
 
         width: 30%;
-        height: 400px;
+        height: 414px;
         border: 1px solid;
         min-width: 300px;
         padding: 15px;
@@ -46,6 +46,13 @@ body
     inset 0px 3px 10px 0px rgba(132, 130, 130, 0.9),
         inset 0px 0px 0px 0px rgba(0,0,0,0.9);
 
-
+   grid-column: button 4;
     
+}
+
+#c
+{
+    width: 24%;
+    background-color: rgba(0, 128, 0, 0.612) ;
+    display: block;
 }
